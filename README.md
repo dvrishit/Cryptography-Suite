@@ -1,4 +1,4 @@
-# 🔐 Cryptography Suite – Python Project
+# 🔐 Cryptography Suite
 
 A complete cryptography toolkit built in Python that implements classical and modern cryptographic algorithms.  
 This project includes encryption, decryption, hashing, digital signatures, key exchange, and file security — all inside a clean and interactive CLI interface.
