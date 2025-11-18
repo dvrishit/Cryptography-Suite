@@ -27,6 +27,8 @@ This project includes encryption, decryption, hashing, digital signatures, key e
 
 ## 📁 Project Structure
 
+```
+
 crypto_suite/  
 │  
 ├── main.py  
@@ -55,17 +57,20 @@ crypto_suite/
     ├── encrypted_files/  
     ├── decrypted_files/  
 
+```
 ---
 
 ## ▶️ How to Run the Project
 
-1. Open a terminal inside the project folder:  
+1. Open a terminal inside the project folder:
+   ```
    cd crypto_suite  
-
-2. Run the main program:  
-   python main.py  
-
-3. Select any option from the menu:  
+   ```
+3. Run the main program:
+   ```
+   python main.py
+   ```
+5. Select any option from the menu:  
    1. Caesar Cipher  
    2. Vigenere Cipher  
    3. Playfair Cipher  
@@ -104,7 +109,9 @@ By using this project, you will understand:
 - NumPy (for Hill Cipher)
 
 Install NumPy using:  
-pip install numpy  
+```
+pip install numpy
+```
 
 All other modules used are from Python’s standard library.
 
